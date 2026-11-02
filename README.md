@@ -1,6 +1,6 @@
 # Local Whisper Captions (Chrome Extension)
 
-This extension runs OpenAI’s Whisper TTS in the browser via Transformers.js, streaming audio through Whisper-compatible ONNX pipelines that lean on WebGPU for accelerated speech-to-text without leaving the current tab.
+This extension runs OpenAI’s Whisper Text To Speech models in the browser via Transformers.js, streaming audio through Whisper-compatible ONNX pipelines that lean on WebGPU for accelerated speech-to-text without leaving the current tab.
 
 - Captures **tab audio** (not microphone)
 - Injects an overlay subtitle UI into the active page
